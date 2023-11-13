@@ -25,6 +25,3 @@ This software is licensed under the MIT License.
 # Donate
 If you like this software, consider making a donation to the developer. Thank you!
 - BTC: **1PbFK28PGsXy1VQG4PBdofLqDdRW4LJ8TS**
-
-# Contact
-Telegram: mohamm4dx
